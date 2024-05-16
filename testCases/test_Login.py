@@ -10,4 +10,4 @@ class TestLogin:
         search_page = Search(driver)
         # Call the search_withdata method
         search_page.search_withdata()
-        time.sleep(2)
+        search_page.get_results()
