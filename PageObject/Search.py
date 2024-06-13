@@ -25,3 +25,4 @@ class Search:
             if i.text == "amazon affiliate program":
                 i.click()
                 break
+    # -----------------------------------------
